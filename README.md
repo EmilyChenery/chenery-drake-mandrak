@@ -3,7 +3,7 @@ This model code describes ballast-water movement of aquatic nonindigenous specie
 
 Also included are three text files containing essential shipping and NIS density information used in the model (Drake et al., 2015).
 
-The code is split into two parts: 1) model setup and 2) simulation and plotting.
+The code, written in the R Statistical Programming language, is split into two parts: 1) model setup and 2) simulation and plotting.
 
 --
 
