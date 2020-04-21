@@ -9,6 +9,6 @@ Values for parameters describing species-specific uptake scenarios (alpha - esta
 
 --
 
-Chenery, E. S., Drake, D. A. R., & Mandrak, N. E. (2019). Reducing uncertainty in species management: forecasting secondary spread with expert opinion and mechanistic models. Ecosphere 
+Chenery, E. S., Drake, D. A. R., & Mandrak, N. E. (2020). Reducing uncertainty in species management: forecasting secondary spread with expert opinion and mechanistic models. Ecosphere 11(4), 1-16. 
 
 Drake, D. A. R., Bailey, S. A., & Mandrak, N. E. (2015). Predicting the Secondary Spread of Aquatic Invasive Species through Ballast Water and Recreational Boating in the Great Lakes Basin. Completion Report Submitted to the Fishery Research Program of the Great Lakes Fishery Commission. Sept. 30, 2015.
